@@ -1,0 +1,11 @@
+stack1: dichiarazione di variabili globali e stampa a video degli indirizzi di memoria.
+stack2: dichiarazione di una variabile globale nel main utilizzando static
+stack3: dichiarazione di array di caratteri globali e stampa a video dell'indirizzo dell'array e dell'intera stringa. Tentativi per cercare di modificare le stringhe attraverso l'utilizzo di funzioni.
+stack4: dichiarazione di array di caratteri come puntatore al primo elemento del vettore e esempio di utilizzo.
+Come la funzione printf() interpreta
+dichiarazione di un puntatore che memorizza la posizione dell'array.
+
+
+
+
+

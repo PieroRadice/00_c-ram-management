@@ -1,0 +1,27 @@
+# File compilati
+*.exe
+*.o
+*.obj
+*.out
+
+# File di debug
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# File temporanei
+*.tmp
+*.temp
+*~
+
+# File IDE
+.vscode/
+.idea/
+*.cbp
+*.depend
+*.layout
+
+# File di sistema
+.DS_Store
+Thumbs.db
