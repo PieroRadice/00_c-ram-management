@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 char nome[] = "Piero";
+char ffff[] = {'c','i','a','o',0);
 char cognome[] = "Radice";
 
 int main(){
@@ -29,7 +30,7 @@ int main(){
 //    printf("+++++%s %s\n",nome, cognome);
     printf("+++++%s %s\n",p_nome, p_cognome);
     p_nome = &nuovoNome[0];
-    //in questo modo se il puntatore è la variabile che può contenere il nome posso cambiarne il valore anche se spreco la memoria della variabile nome
+    //in questo modo se il puntatore Ã¨ la variabile che puÃ² contenere il nome posso cambiarne il valore anche se spreco la memoria della variabile nome
 
     printf("-----%s %s\n",p_nome, p_cognome);
 
