@@ -25,3 +25,6 @@
 # File di sistema
 .DS_Store
 Thumbs.db
+
+# Cartelle private
+verifiche/
