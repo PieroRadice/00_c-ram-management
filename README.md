@@ -33,11 +33,11 @@ Questo repository contiene una serie progressiva di esempi pratici che coprono:
 - **stack12a.c** - Array di puntatori a funzione
 - **stack12b.c** - Argomenti da linea di comando (argc, argv)
 - **stack13.c** - Memoria HEAP: malloc() e free()
+- **stack14.c** - Tipi di dato personalizzati (struct, typedef, enum)
 
 ### File di Supporto
 
 - **ESERCIZI_STUDENTI.md** - Lista completa di esercizi organizzati per livello
-- **00_contenuto_dei_file.txt** - Descrizione breve dei file
 
 ## 🚀 Compilazione ed Esecuzione
 
